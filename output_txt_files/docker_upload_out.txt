@@ -1,0 +1,39 @@
+$ ./upload_docker.sh
+Docker ID and Image: nandakumarthiagarajan/proj-udacity-devops-microservices
+Authenticating with existing credentials...
+Login Succeeded
+The push refers to repository [docker.io/nandakumarthiagarajan/proj-udacity-devops-microservices]
+34c513f07627: Preparing
+bd2f29bd2bb9: Preparing
+f48e12c46e28: Preparing
+d93b949737be: Preparing
+799a7872c8c7: Preparing
+715450468940: Preparing
+c9d608035aef: Preparing
+715450468940: Waiting
+bb9c02680a15: Preparing
+a637c551a0da: Preparing
+c9d608035aef: Waiting
+bb9c02680a15: Waiting
+2c8d31157b81: Preparing
+a637c551a0da: Waiting
+7b76d801397d: Preparing
+f32868cde90b: Preparing
+0db06dff9d9a: Preparing
+7b76d801397d: Waiting
+f32868cde90b: Waiting
+2c8d31157b81: Waiting
+799a7872c8c7: Mounted from library/python
+bd2f29bd2bb9: Pushed
+f48e12c46e28: Pushed
+715450468940: Mounted from library/python
+d93b949737be: Pushed
+a637c551a0da: Mounted from library/python
+c9d608035aef: Mounted from library/python
+bb9c02680a15: Mounted from library/python
+2c8d31157b81: Mounted from library/python
+7b76d801397d: Mounted from library/python
+0db06dff9d9a: Mounted from library/python
+f32868cde90b: Mounted from library/python
+34c513f07627: Pushed
+latest: digest: sha256:ce5fd89292db56b0941c1337e461daf876768f28b47c415af97ade65462b61f1 size: 3058

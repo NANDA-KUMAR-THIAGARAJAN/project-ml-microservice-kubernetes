@@ -1,0 +1,7 @@
+NAME                                    READY   STATUS    RESTARTS   AGE
+projectudacitydevops-845ddc856f-8b4rz   1/1     Running   0          87s
+Forwarding from 127.0.0.1:8083 -> 80
+Forwarding from [::1]:8083 -> 80
+Handling connection for 8083
+
+
